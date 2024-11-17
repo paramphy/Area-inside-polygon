@@ -1,5 +1,5 @@
 # Area-inside-polygon
- Let's the user draw a polygon on a image and determines the area inside the polygon.
+ Let the user draw a polygon on an image and determine the area inside the polygon.
 # Usage
 
 ```
@@ -7,15 +7,15 @@ python area_inside_polygon.py
 ```
 ## Interface
 
-[Initial interface](.\docs\initial_image.png)
+![Initial interface](.\docs\initial_image.png)
 
 ## Interface with image
 
-[](docs\with_image.png)
+![.](docs\with_image.png)
 
 ## Interface with image and polygon
 
-[](.\docs\polygon_image.png)
+![.](.\docs\polygon_image.png)
 
 ## Output
 
