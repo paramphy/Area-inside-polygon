@@ -7,15 +7,15 @@ python area_inside_polygon.py
 ```
 ## Interface
 
-![Initial interface](.\docs\initial_image.png)
+![Initial interface](./docs/initial_image.png)
 
 ## Interface with image
 
-![.](docs\with_image.png)
+![.](./docs/with_image.png)
 
 ## Interface with image and polygon
 
-![.](.\docs\polygon_image.png)
+![.](./docs/polygon_image.png)
 
 ## Output
 
