@@ -228,7 +228,7 @@ class PolygonMaskingApp:
             f.write(f"\n\n# Area under the polygon (in pixcels) = {self.area}")
             f.write(f"\n\n# Total area (in pixcels) = {self.total_area}")
             f.write(
-                f"\n\n# Fraction of area under the polygon (in pixcels) = {self.fraction_area_under_polygon}"
+                f"\n\n# Fraction of area under the polygon (in pixcels) = {self.fraction_area_under_polygon} %"
             )
 
         self.masked_image_filename = (
